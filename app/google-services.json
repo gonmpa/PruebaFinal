@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054862502304",
+    "project_id": "pruebafinal-10966",
+    "storage_bucket": "pruebafinal-10966.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054862502304:android:1767fc7820b8791891dcc5",
+        "android_client_info": {
+          "package_name": "com.gonzalo.pruebafinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIx4AeeV8rT0Mk8r563cKnlw34frFvORc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
